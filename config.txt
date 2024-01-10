@@ -1,0 +1,5 @@
+ ;!@Install@!UTF-8!
+ Title="Admin Launchers Installer"
+ BeginPrompt="Do you want to install the Admin Launchers for Pomeroy?"
+ RunProgram="install.bat"
+ ;!@InstallEnd@!
